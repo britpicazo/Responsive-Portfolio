@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-__Houston Coding Boot Camp - Assignment 2__
+### Houston Coding Boot Camp - Assignment 2
 
 This is a continuation of Assignment 1, as we are turning our Basic Portfolio into a responsive site.
 
