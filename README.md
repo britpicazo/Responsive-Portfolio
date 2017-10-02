@@ -7,7 +7,6 @@ This is a continuation of Assignment 1, as we are turning our Basic Portfolio in
 ## Getting Started
 
 Click on the following link to view the completed assignment.
-
 https://britpicazo.github.io/Basic-Portfolio/
 
 ## Built With
